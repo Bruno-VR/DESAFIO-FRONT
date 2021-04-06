@@ -5,8 +5,6 @@ body {
     font-family: 'Lexend Deca';
     src: url(https://fonts.google.com/specimen/Lexend+Deca#standard-styles);
 }
-
-
 section {
     -webkit-box-shadow: -1px 4px 15px -3px #000000; 
     box-shadow: -1px 4px 15px -3px #000000;
@@ -83,4 +81,18 @@ button {
 }
 .button-3 {
     color: hsl(179, 100%, 13%);
+}
+.attribution {
+   margin-left: 600px;
+   width: 100px;
+   height: 150px;
+   margin-top: 20px
+}
+h2  {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Lexend  Deca';
+}
+a {
+    font-size: 20px;
 }
